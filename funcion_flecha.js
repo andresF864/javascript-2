@@ -1,7 +1,4 @@
 const suma = (a,b)=> a+b;
-
-
-
 const obtenerMayor = (num1, num2, num3) => {
     let mayor = num1;
     let repetidos = [];
